@@ -1,0 +1,10 @@
+displayName: Echo Plugin
+
+type: middleware
+
+import: github.com/IlijaMiljkovic96/echo-plugin
+
+summary: 'Echoes request URI and IP Address'
+
+testData:
+  include-host: true
